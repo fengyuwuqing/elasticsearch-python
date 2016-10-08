@@ -1,3 +1,3 @@
 本脚本只解决在es访问时1w权限问题
 
-用python将windowkuo
+用python将window扩大
